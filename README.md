@@ -1,0 +1,2 @@
+# Price-Analysis-of-Houses
+This case study includes the price analysis of Houses using available independent variables of housing dataset which will be helpful to understand how exactly the prices vary with the variables. Using that analysis, one can manipulate the strategy and concentrate on areas that will yield high returns. Further, the model will be useful to understand the pricing dynamics of a new market.
